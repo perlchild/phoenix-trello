@@ -44,7 +44,7 @@
     "phoenix": "file:deps/phoenix",
     "phoenix_html": "file:deps/phoenix_html",
     "react": "^16.12.0",
-    "react-addons-css-transition-group": "^0.14.5",
+    "react-addons-css-transition-group": "^15.6.2",
     "react-dnd": "^9.5.1",
     "react-dnd-html5-backend": "^2.0.2",
     "react-dom": "^0.14.5",
