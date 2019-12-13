@@ -37,7 +37,7 @@
     "bourbon-neat": "^4.0.0",
     "classnames": "^2.2.1",
     "es6-promise": "^4.2.8",
-    "history": "^1.17.0",
+    "history": "^4.10.1",
     "invariant": "^2.2.0",
     "isomorphic-fetch": "^2.2.1",
     "moment": "^2.11.1",
