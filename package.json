@@ -47,7 +47,7 @@
     "react-addons-css-transition-group": "^15.6.2",
     "react-dnd": "^9.5.1",
     "react-dnd-html5-backend": "^2.0.2",
-    "react-dom": "^0.14.5",
+    "react-dom": "^16.12.0",
     "react-gravatar": "^2.2.2",
     "react-page-click": "^4.0.4",
     "react-redux": "^7.1.3",
