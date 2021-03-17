@@ -30,7 +30,7 @@
     "node-sass": "^4.13.1",
     "sass-loader": "^9.0.3",
     "style-loader": "^1.0.1",
-    "webpack": "^4.41.2"
+    "webpack": "^5.26.2"
   },
   "dependencies": {
     "bourbon": "^7.0.0",
